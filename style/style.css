@@ -3,13 +3,14 @@ nav {
     text-align: center;
 }
 
-h1 {
+header {
     text-align: center;
     background-color: orange;
 }
 
-h2 {
+section {
     text-align: center;
+    background-color: green;
 }
 
 address {
@@ -18,8 +19,6 @@ address {
 
 footer {
     text-align: center;
-}
-
-p {
-    text-align: center;
+    background-color: grey;
+    padding: 5%;
 }
